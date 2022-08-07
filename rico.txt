@@ -1,0 +1,8 @@
+Version=3.96
+Account=enricoini
+Password=imanuella1@
+Gmail=enricoimanuella
+START_ACC=1
+DOMAIN=@gmail.com
+BEHIND=1
+FROM BEHIND=yes
