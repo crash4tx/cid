@@ -1,5 +1,5 @@
 Version=3.96
-Account=jupan
+Account=Jupan
 Password=Litah123!
 Gmail=paisneedbabu
 START_ACC=1
